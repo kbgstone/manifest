@@ -1,9 +1,9 @@
 {
   "name": "Kbgstone",
   "short_name": "kbgstone",
-  "start_url": "https://www.kngstone.com",
+  "start_url": "https://www.kbgstone.com",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#5b86e5",
   "theme_color": "#5b86e5",
   "description": "jasa pasang batu sikat",
   "icons": [{
