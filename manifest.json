@@ -18,7 +18,18 @@
 
   {
 
-   "src": "https://1.bp.blogspot.com/-inX8j0tpWMA/X-_VD0eLrFI/AAAAAAAACfY/8uRfW_WZAwsfWCPZcCDm4W7yQ7jNjMq8ACLcBGAsYHQ/s36/logo-abdillah-batu-sikat.png",
+   "src": "https://1.bp.blogspot.com/-_oBwj_YcFiw/X_Cv4S-KKOI/AAAAAAAACf0/-Bi9qxthIfMWa68NhU0NIFlNV2P-YyxhwCLcBGAsYHQ/s32/favicon-32x32.png",
+
+   "sizes": "32x32",
+
+   "type": "image\/png",
+
+   "density": "0.50"
+
+  },
+ {
+
+   "src": "https://1.bp.blogspot.com/-EPs1oZwhimQ/X_Cv4zhCWwI/AAAAAAAACf4/1fNdl1Btib8fOx3YIcx9rbKkrt-SW1XFACLcBGAsYHQ/s36/favicon.ico",
 
    "sizes": "36x36",
 
@@ -27,10 +38,9 @@
    "density": "0.75"
 
   },
+ {
 
-  {
-
-   "src": "https://1.bp.blogspot.com/-inX8j0tpWMA/X-_VD0eLrFI/AAAAAAAACfY/8uRfW_WZAwsfWCPZcCDm4W7yQ7jNjMq8ACLcBGAsYHQ/s48/logo-abdillah-batu-sikat.png",
+   "src": "https://1.bp.blogspot.com/-EPs1oZwhimQ/X_Cv4zhCWwI/AAAAAAAACf4/1fNdl1Btib8fOx3YIcx9rbKkrt-SW1XFACLcBGAsYHQ/s48/favicon.ico",
 
    "sizes": "48x48",
 
