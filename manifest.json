@@ -8,9 +8,9 @@
 
  "display": "standalone",
 
- "background_color": "#fff",
+ "background_color": "#ffffff",
 
- "theme_color": "#2B0C93",
+ "theme_color": "#ffffff",
 
  "description": "Tukang batu sikat",
 
@@ -78,7 +78,7 @@
 
   {
 
-   "src": "https://1.bp.blogspot.com/-inX8j0tpWMA/X-_VD0eLrFI/AAAAAAAACfY/8uRfW_WZAwsfWCPZcCDm4W7yQ7jNjMq8ACLcBGAsYHQ/s192/logo-abdillah-batu-sikat.png",
+   "src": "https://1.bp.blogspot.com/-FwoqjIiW4zc/X_Cv3cmJXsI/AAAAAAAACfo/VCsojCvXqIAsFaWdxf0BvuNEJ4nhtqhTQCLcBGAsYHQ/s192/android-chrome-192x192.png",
 
    "sizes": "192x192",
 
@@ -90,7 +90,7 @@
 
   {
 
-   "src": "https://1.bp.blogspot.com/-inX8j0tpWMA/X-_VD0eLrFI/AAAAAAAACfY/8uRfW_WZAwsfWCPZcCDm4W7yQ7jNjMq8ACLcBGAsYHQ/s512/logo-abdillah-batu-sikat.png",
+   "src": "https://1.bp.blogspot.com/-rCrm4E8JAdY/X_Cv342AkrI/AAAAAAAACfs/WgFzONq1SR0Bp12rP9QnxzjTe33RwVVCQCLcBGAsYHQ/s320/android-chrome-512x512.png",
 
    "sizes": "512x512",
 
