@@ -1,10 +1,11 @@
+
 {
 
- "name": "Abdillah Batu Sikat",
+ "name": "BAITOPATI",
 
- "short_name": "Abdillah",
+ "short_name": "BAITOPATI",
 
- "start_url": "abdillahbatusikat.blogspot.com",
+ "start_url": "baitopati.com",
 
  "display": "standalone",
 
@@ -12,13 +13,13 @@
 
  "theme_color": "#ffffff",
 
- "description": "Tukang batu sikat",
+ "description": "Tukang batu sikat, Art Designer",
 
  "icons": [
 
  {
 
-   "src": "https://1.bp.blogspot.com/-_oBwj_YcFiw/X_Cv4S-KKOI/AAAAAAAACf0/-Bi9qxthIfMWa68NhU0NIFlNV2P-YyxhwCLcBGAsYHQ/s32/favicon-32x32.png",
+   "src": "href=https://1.bp.blogspot.com/-v5q3pTbuVLg/YNcuShinsjI/AAAAAAAACso/X5K3PC3be-ELwPlYchHUWbQW02tgHTczACLcBGAsYHQ/s32/favicon-32x32.png",
 
    "sizes": "32x32",
 
@@ -27,9 +28,10 @@
    "density": "0.75"
 
   },
+
  {
 
-   "src": "https://1.bp.blogspot.com/-EPs1oZwhimQ/X_Cv4zhCWwI/AAAAAAAACf4/1fNdl1Btib8fOx3YIcx9rbKkrt-SW1XFACLcBGAsYHQ/s48/favicon.ico",
+   "src": "https://1.bp.blogspot.com/-Lc_UEd1hTxQ/YNcuRt9-OrI/AAAAAAAACsc/daUOdBp4zH8-z-uj3sbcYPmpd1n7xX34wCLcBGAsYHQ/s48/android-chrome-192x192.png",
 
    "sizes": "48x48",
 
@@ -41,7 +43,7 @@
 
   {
 
-   "src": "https://1.bp.blogspot.com/-inX8j0tpWMA/X-_VD0eLrFI/AAAAAAAACfY/8uRfW_WZAwsfWCPZcCDm4W7yQ7jNjMq8ACLcBGAsYHQ/s72/logo-abdillah-batu-sikat.png",
+   "src": "https://1.bp.blogspot.com/-Lc_UEd1hTxQ/YNcuRt9-OrI/AAAAAAAACsc/daUOdBp4zH8-z-uj3sbcYPmpd1n7xX34wCLcBGAsYHQ/s72/android-chrome-192x192.png",
 
    "sizes": "72x72",
 
@@ -53,7 +55,7 @@
 
   {
 
-   "src": "https://1.bp.blogspot.com/-inX8j0tpWMA/X-_VD0eLrFI/AAAAAAAACfY/8uRfW_WZAwsfWCPZcCDm4W7yQ7jNjMq8ACLcBGAsYHQ/s96/logo-abdillah-batu-sikat.png",
+   "src": "https://1.bp.blogspot.com/-Lc_UEd1hTxQ/YNcuRt9-OrI/AAAAAAAACsc/daUOdBp4zH8-z-uj3sbcYPmpd1n7xX34wCLcBGAsYHQ/s96/android-chrome-192x192.png",
 
    "sizes": "96x96",
 
@@ -65,7 +67,7 @@
 
   {
 
-   "src": "https://1.bp.blogspot.com/-inX8j0tpWMA/X-_VD0eLrFI/AAAAAAAACfY/8uRfW_WZAwsfWCPZcCDm4W7yQ7jNjMq8ACLcBGAsYHQ/s144/logo-abdillah-batu-sikat.png",
+   "src": "https://1.bp.blogspot.com/-Lc_UEd1hTxQ/YNcuRt9-OrI/AAAAAAAACsc/daUOdBp4zH8-z-uj3sbcYPmpd1n7xX34wCLcBGAsYHQ/s144/android-chrome-192x192.png",
 
    "sizes": "144x144",
 
@@ -77,7 +79,7 @@
 
   {
 
-   "src": "https://1.bp.blogspot.com/-FwoqjIiW4zc/X_Cv3cmJXsI/AAAAAAAACfo/VCsojCvXqIAsFaWdxf0BvuNEJ4nhtqhTQCLcBGAsYHQ/s192/android-chrome-192x192.png",
+   "src": "https://1.bp.blogspot.com/-Lc_UEd1hTxQ/YNcuRt9-OrI/AAAAAAAACsc/daUOdBp4zH8-z-uj3sbcYPmpd1n7xX34wCLcBGAsYHQ/s0/android-chrome-192x192.png",
 
    "sizes": "192x192",
 
@@ -89,7 +91,7 @@
 
   {
 
-   "src": "https://1.bp.blogspot.com/-rCrm4E8JAdY/X_Cv342AkrI/AAAAAAAACfs/WgFzONq1SR0Bp12rP9QnxzjTe33RwVVCQCLcBGAsYHQ/s320/android-chrome-512x512.png",
+   "src": "https://1.bp.blogspot.com/-vKJhf9KFsno/YNc0MYxQVyI/AAAAAAAACtE/9gI5J3O0spQUlJ_B01_dCmC7sfxHe_UhQCLcBGAsYHQ/s512/logo.png",
 
    "sizes": "512x512",
 
